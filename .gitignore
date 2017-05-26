@@ -7,3 +7,4 @@
 /debian/phpstorm.substvars
 *~
 /debian/changelog
+/.idea
